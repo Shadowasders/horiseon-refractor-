@@ -20,7 +20,7 @@ This was an exciting opprotunity to polish my skills in HTML. Knowing what to lo
 
 ## Collaborators 
 
-[Myro Joy Lee](https://github.com/myrojoylee) - Helped me find a resource for writing professional README files.
+[Myro Joy Lee](https://github.com/myrojoylee) - Advised me on the topic of writing professional README files.
 
 ## License
 
