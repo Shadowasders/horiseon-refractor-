@@ -8,6 +8,7 @@ During this process I reworked the HTML page, removed overused divisons, added c
 
 While in CSS I reworked the classes used, combined them where possible, and reworked the order so it would be easier to read. All while keeping the functionality of the website intact.
 
+This was an exciting opprotunity to polish my skills in HTML. Knowing what to look for in finished code will be extremely helpful when writing my own code in the future. I also learned a few new tricks in CSS with combo-selectors, and can't wait to use them in my personal projects in the future.
 
 ## License
 
