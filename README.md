@@ -1,4 +1,4 @@
-# <horiseon website rehaul>
+# < HORISEON WEBSITE REHAUL >
 
 ## Description
 
@@ -17,6 +17,10 @@ This was an exciting opprotunity to polish my skills in HTML. Knowing what to lo
 ![](https://github.com/Shadowasders/horiseon-refractor-revamp/blob/main/assets/screenshot%202.png)
 
 [Live site here](https://shadowasders.github.io/horiseon-refractor-revamp/)
+
+## Collaborators 
+
+[Myro Joy Lee](https://github.com/myrojoylee) - Helped me find a resource for writing professional README files.
 
 ## License
 
