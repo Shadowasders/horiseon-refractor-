@@ -1,4 +1,4 @@
-# <horiseon-refractor website rehaul>
+# <horiseon website rehaul>
 
 ## Description
 
@@ -15,6 +15,8 @@ This was an exciting opprotunity to polish my skills in HTML. Knowing what to lo
 ![alt text](https://github.com/Shadowasders/horiseon-refractor-revamp/blob/main/assets/Screenshot%201.png)
 
 ![](https://github.com/Shadowasders/horiseon-refractor-revamp/blob/main/assets/screenshot%202.png)
+
+[Live site here](https://shadowasders.github.io/horiseon-refractor-revamp/)
 
 ## License
 
